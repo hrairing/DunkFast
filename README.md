@@ -218,7 +218,7 @@
  <!-- FINAL CTA -->
 <section style="margin-bottom:40px;">
     <a class="btn"
-       href="https://www.paypal.me/wartiwarkasabian/50"
+       href="https://www.paypal.me/wartiwarkasabian/99"
        target="_blank">
       🚀 Unlock My Jump Plan Today
     </a>
